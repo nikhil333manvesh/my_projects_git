@@ -1,4 +1,4 @@
 import math
 
 
-print(math.floor(3.145))
+print(math.ceil(3.145))
